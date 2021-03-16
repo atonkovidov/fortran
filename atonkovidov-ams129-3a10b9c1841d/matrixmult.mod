@@ -1,0 +1,46 @@
+GFORTRAN module version '10' created from matrixmult_mod.f90
+MD5:e1ec44a2d6f972793f7f2b3fd0b72fab -- If you edit this, you'll get what you deserve.
+
+(() () () () () () () () () () () () () () () () () () () () () () () ()
+() () ())
+
+()
+
+()
+
+()
+
+()
+
+()
+
+(2 'matrix_multiply' 'matrixmult' '' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC DECL UNKNOWN 0 0 DIMENSION FUNCTION IMPLICIT_PURE
+ALWAYS_EXPLICIT) (INTEGER 8 0 0 0 INTEGER ()) 3 0 (4 5 6) (2 0 EXPLICIT
+(CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1') (VARIABLE (INTEGER 8 0 0 0
+INTEGER ()) 0 6 ()) (CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1') (
+VARIABLE (INTEGER 8 0 0 0 INTEGER ()) 0 6 ())) 7 () () () 0 0)
+8 'matrixmult' 'matrixmult' '' 1 ((MODULE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0) (UNKNOWN 0 0 0 0 UNKNOWN ()) 0 0 () () 0 () () () 0
+0)
+4 'input_1' '' '' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DIMENSION DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () (2 0 EXPLICIT (CONSTANT (
+INTEGER 4 0 0 0 INTEGER ()) 0 '1') (VARIABLE (INTEGER 8 0 0 0 INTEGER ())
+0 6 ()) (CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1') (VARIABLE (
+INTEGER 8 0 0 0 INTEGER ()) 0 6 ())) 0 () () () 0 0)
+5 'input_2' '' '' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DIMENSION DUMMY) (REAL 8 0 0 0 REAL ()) 0 0 () (2 0 EXPLICIT (CONSTANT (
+INTEGER 4 0 0 0 INTEGER ()) 0 '1') (VARIABLE (INTEGER 8 0 0 0 INTEGER ())
+0 6 ()) (CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1') (VARIABLE (
+INTEGER 8 0 0 0 INTEGER ()) 0 6 ())) 0 () () () 0 0)
+6 'n' '' '' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY) (
+INTEGER 8 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+7 'output' '' '' 3 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DIMENSION RESULT ALWAYS_EXPLICIT) (INTEGER 8 0 0 0 INTEGER ())
+0 0 () (2 0 EXPLICIT (CONSTANT (INTEGER 4 0 0 0 INTEGER ()) 0 '1') (
+VARIABLE (INTEGER 8 0 0 0 INTEGER ()) 0 6 ()) (CONSTANT (INTEGER 4 0 0 0
+INTEGER ()) 0 '1') (VARIABLE (INTEGER 8 0 0 0 INTEGER ()) 0 6 ())) 0 ()
+() () 0 0)
+)
+
+('matrix_multiply' 0 2 'matrixmult' 0 8)
